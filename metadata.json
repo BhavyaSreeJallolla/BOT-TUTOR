@@ -1,0 +1,7 @@
+{
+  "name": "CodeMaster AI Tutor",
+  "description": "A comprehensive AI-powered programming education platform for learning, practicing, and mastering any programming language with personalized tutoring and adaptive testing.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
